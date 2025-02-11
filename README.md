@@ -36,7 +36,7 @@ Currently, the project is in the early stages and runs on localhost. To set up t
 
 Clone the repository:
 
-git clone https://github.com/your-repo/plant-smart.git
+git clone https://github.com/Just-Aditya/PlantSmart.git
 cd plant-smart
 
 Set up a virtual environment and install dependencies:
