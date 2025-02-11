@@ -1,12 +1,13 @@
 # PlantSmart - Intelligent Soil Monitoring System
 
-Team Members
-Name	Roll Number
-Aditya Kumar	22051222
-Affan Ahmed	22051567
-Atul Kumar	22053933
-Abhinandan Maji	2205784
+## Team Members
 
+**Name** | **Roll Number**
+--- | ---
+Aditya Kumar | 22051222
+Affan Ahmed | 22051567
+Atul Kumar | 22053933
+Abhinandan Maji | 2205784
 
 ## Overview
 
