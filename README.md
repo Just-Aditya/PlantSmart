@@ -27,7 +27,7 @@ PlantSmart is an advanced soil monitoring system designed to provide real-time i
 - **Backend:** Python (FastAPI)
 - **Machine Learning:** Scikit-Learn, TensorFlow
 - **Database:** MongoDB
-- **Frontend: Html,Css,Javascript,Bootstrap**
+- **Frontend:** HTML, CSS, JavaScript, Bootstrap
 - **Hardware:** Soil sensors for pH, NPK, and humidity
 - **Data Sources:** Indiastats and Kaggle datasets for crop prediction
 
@@ -35,15 +35,11 @@ PlantSmart is an advanced soil monitoring system designed to provide real-time i
 
 The PlantSmart system integrates hardware components to collect real-time soil data, which is then processed by the machine learning models. The hardware setup includes:
 
-- **pH Sensor\:WKM pH Electrode Sensor Probe with BNC Connector**
-
+- **pH Sensor:** WKM pH Electrode Sensor Probe with BNC Connector
 - **NPK Sensor:**
-
-- Modbus Module: RS485/MAX485
-
+  - Modbus Module: RS485/MAX485
 - **Microcontroller:** ESP32 for data collection and transmission.
-
-- **Wireless Connectivity: nRF24L01 PA+LNA.**
+- **Wireless Connectivity:** nRF24L01 PA+LNA.
 
 ## Installation & Setup
 
@@ -71,7 +67,7 @@ Currently, the project is in the early development stages and runs on a local en
 - **Cloud Deployment:** Deploy the system on a cloud platform for remote accessibility.
 - **Automated Irrigation System:** Implement smart irrigation control based on real-time soil moisture levels.
 - **Multi-Region Support:** Expand the model to accommodate diverse soil and climate conditions.
-- **Mobile App:** Develop a mobile-friendly interface for farmers.
+- **Web Dev:** Develop a web-friendly interface for farmers.
 
 ## License
 
