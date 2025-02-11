@@ -1,5 +1,13 @@
 # PlantSmart - Intelligent Soil Monitoring System
 
+Team Members
+Name	Roll Number
+Aditya Kumar	22051222
+Affan Ahmed	22051567
+Atul Kumar	22053933
+Abhinandan Maji	2205784
+
+
 ## Overview
 
 PlantSmart is an advanced soil monitoring system designed to provide real-time insights into soil conditions, enabling farmers and agricultural experts to make informed decisions for optimal crop cultivation. By integrating sensor data with machine learning models, PlantSmart predicts the best crops to cultivate, determines optimal planting times, and recommends necessary soil treatments to maximize yield and minimize costs.
